@@ -1,0 +1,9 @@
+SCREEN_WIDTH = 480
+SCREEN_HEIGHT = 480
+rectangels = []
+alive = []
+count = 0
+GRAY_1 = (128, 128, 128)
+GRAY_2 = (192, 192, 192)
+WHITE = (0, 0, 0)
+Blue = (0, 0, 255)
