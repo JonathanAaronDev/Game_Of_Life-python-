@@ -12,5 +12,8 @@ Any live cell with two or three live neighbours survives.
 Any dead cell with three live neighbours becomes a live cell.
 All other live cells die in the next generation. Similarly, all other dead cells stay dead.
 
+![image](https://user-images.githubusercontent.com/109544498/224578174-db4cddfd-c78e-4bdb-bf43-8c052ee41ff0.png)
+
+
 CHECK OUT:
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
